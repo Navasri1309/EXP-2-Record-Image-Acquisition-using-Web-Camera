@@ -3,7 +3,7 @@
 ### Developed By: NAVASRI B
 
 ### Register Number: 212225230196
-
+ 
 ## Aim
 
 To write a Python program using OpenCV to capture images from a webcam and perform the following image manipulations:
