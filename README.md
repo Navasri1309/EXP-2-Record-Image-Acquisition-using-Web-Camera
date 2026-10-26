@@ -1,6 +1,8 @@
 # EXP-2-Record-Image-Acquisition-using-Web-Camera
 
-# Image Acquisition Using Web Camera
+### Developed By: NAVASRI B
+
+### Register Number: 212225230196
 
 ## Aim
 
@@ -39,10 +41,6 @@ Divide the frame into four parts, resize the frame, and assign the smaller frame
 Rotate the frame using `cv2.rotate()` and display the output.
 
 ## Program
-
-### Developed By: NAVASRI B
-
-### Register Number: 212225230196
 
 ## i) Write the Frame as a JPG File
 
